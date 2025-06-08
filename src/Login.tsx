@@ -176,7 +176,7 @@ const Login: React.FC<LoginProps> = ({ onLogin, authorizedUsers }) => {
         {/* Footer - IDENTICO */}
         <div className="text-center mt-6">
           <p className="text-blue-200 text-xs">
-            © {new Date().getFullYear()} PAH Calculator - Sistema Professionale
+            © {new Date().getFullYear()} PAH Calculator (created by Dario Ingletto) - Sistema Professionale
           </p>
         </div>
       </div>
